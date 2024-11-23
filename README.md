@@ -1,0 +1,2 @@
+# linux
+sharing shell script
